@@ -1,0 +1,21 @@
+
+# Eclipse and Java build files
+.classpath
+.project
+.settings/
+bin/
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
