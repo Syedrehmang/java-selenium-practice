@@ -16,7 +16,7 @@ To build a strong foundation in automation testing and practice end-to-end testi
 - **Automation Tool:** Selenium WebDriver  
 - **Test Framework:** TestNG / JUnit  
 - **Build Tool:** Maven  
-- **IDE:** IntelliJ IDEA / Eclipse  
+- **IDE:** Eclipse  
 - **Version Control:** Git & GitHub
 
 - About Me
