@@ -1,0 +1,8 @@
+syedrehmanseleniumproject\pageobjects\ProductCatalogue.class
+syedrehmanseleniumproject\pageobjects\OrderPage.class
+syedrehmanseleniumproject\resources\ExtentReporterNG.class
+syedrehmanseleniumproject\pageobjects\CartPage.class
+syedrehmanseleniumproject\pageobjects\CheckoutPage.class
+syedrehmanseleniumproject\pageobjects\ConfirmationPage.class
+syedrehmanseleniumproject\pageobjects\LandingPage.class
+syedrehmanseleniumproject\AbstractComponents\AbstractComponent.class
